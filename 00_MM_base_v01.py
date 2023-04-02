@@ -98,7 +98,7 @@ def currency(x):
 # set maximum number of tickets below
 
 
-MAX_TICKETS = 5
+MAX_TICKETS = 50
 tickets_sold = 0
 
 yes_no_list = ["yes", "no"]
